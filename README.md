@@ -5,3 +5,4 @@ https://github.com/dustyfresh/PHP-vulnerability-audit-cheatsheet
 https://pentesterlab.com/exercises/codereview/course
 
 https://github.com/clarkio/vulnerable-app
+https://github.com/Azure-Samples/angular-cosmosdb/tree/insecure-heroes
