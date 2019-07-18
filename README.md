@@ -13,3 +13,7 @@ https://github.com/rickogden/insecure-php-example
 https://github.com/rapid7/hackazon
 
 https://github.com/hdiv/insecure-bank
+
+https://github.com/snyk/java-goof
+
+https://github.com/CSPF-Founder/JavaVulnerableLab
