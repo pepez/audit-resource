@@ -9,3 +9,5 @@ https://github.com/clarkio/vulnerable-app
 https://github.com/Azure-Samples/angular-cosmosdb/tree/insecure-heroes
 
 https://github.com/rickogden/insecure-php-example
+
+https://github.com/rapid7/hackazon
