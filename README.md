@@ -19,3 +19,5 @@ https://github.com/snyk/java-goof
 https://github.com/CSPF-Founder/JavaVulnerableLab
 
 https://github.com/hclproducts/AltoroJ
+
+http://b1twis3.ca/the-state-of-oswe/
